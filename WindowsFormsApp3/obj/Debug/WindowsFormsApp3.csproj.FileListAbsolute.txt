@@ -1,0 +1,62 @@
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.dll
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.pdb
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.xml
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\dzikri\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.dll
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.WinForms.dll
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.Wpf.dll
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.pdb
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.xml
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.WinForms.pdb
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.WinForms.xml
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.Wpf.pdb
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiveCharts.Wpf.xml
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Pendidikan\Pemrograman Visual\DASHBOARD COVID-19\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\LiveCharts.dll
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\LiveCharts.WinForms.dll
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\LiveCharts.Wpf.dll
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\LiveCharts.pdb
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\LiveCharts.xml
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\LiveCharts.WinForms.pdb
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\LiveCharts.WinForms.xml
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\LiveCharts.Wpf.pdb
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\LiveCharts.Wpf.xml
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\MetroFramework.Design.dll
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\MetroFramework.dll
+D:\Pendidikan\Pemrograman Visual\Dashboard\WindowsFormsApp3\bin\Debug\MetroFramework.Fonts.dll
