@@ -20,6 +20,11 @@ edit sesuai dengan lokasi directory aplikasi Anda
     String connParam = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=[ directory aplikasi Anda ]\db\db.mdb;Persist Security Info=False";
 ```
 
+## Team Pengembang
+- M SAIF ALIKHAN [18051204022]
+- MARGARETHA EKARISTI YOBELLA [18051204009]
+- KHONSA AZIZA ALMASH [18051204015]
+
 ## Program Pendukung
 - Microsoft Visual Studio 2019
 - Micorosft Access
